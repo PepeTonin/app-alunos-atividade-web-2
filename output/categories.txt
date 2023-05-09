@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "645193ec10741ce039235b73",
+        "name": "bebidas",
+        "icon": "\ud83e\udd23",
+        "__v": 0
+    },
+    {
+        "_id": "6451945210741ce039235b75",
+        "name": "pizza",
+        "icon": "\ud83c\udf55",
+        "__v": 0
+    },
+    {
+        "_id": "6451957610741ce039235b7d",
+        "name": "pizza",
+        "icon": "\ud83c\udf55",
+        "__v": 0
+    },
+    {
+        "_id": "6451968810741ce039235b7f",
+        "name": "doces",
+        "icon": "\ud83c\udf6a",
+        "__v": 0
+    },
+    {
+        "_id": "645196a310741ce039235b81",
+        "name": "esportes",
+        "icon": "\ud83c\udfc8",
+        "__v": 0
+    },
+    {
+        "_id": "64519a559edf27692c8473ef",
+        "name": "carnes",
+        "icon": "\ud83e\udd69",
+        "__v": 0
+    }
+]
